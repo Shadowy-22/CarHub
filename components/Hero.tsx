@@ -6,7 +6,7 @@ import { CustomButton } from '.';
 
 const Hero = () => {
   const handleScroll = () => {
-    alert("hi")
+    alert("Testing new feature")
   }
 
   return (
